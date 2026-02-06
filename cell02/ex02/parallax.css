@@ -1,0 +1,30 @@
+.text {
+    font-size: small;
+    color: white;
+}
+.parallax1 {
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/ginger-maine-coon-kitten-running-on-lawn-in-royalty-free-image-1719608142.jpg?crop=1xw:0.84415xh;0,0.185xh');
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 100px;
+    margin-top: 0vh;
+}
+.parallax2 {
+    background-image: url('https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg');
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
